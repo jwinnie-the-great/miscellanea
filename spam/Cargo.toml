@@ -1,0 +1,12 @@
+[package]
+name = "spam"
+version = "0.1.0"
+authors = ["Jeremy Potter <git@stormdesign.us>"]
+
+[dependencies]
+colored = "1.6"
+clap = "2.32"
+tar = "0.4"
+json = "0.11"
+directories = "1.0"
+dialoguer = "0.1"
