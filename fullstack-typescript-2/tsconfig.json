@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "target": "esnext",
+        "lib": ["esnext"],
+        "strict": true,
+        "outDir": "dist/",
+        "experimentalDecorators": true
+    },
+    "include": [
+        "src/**/*.ts"
+    ]
+}

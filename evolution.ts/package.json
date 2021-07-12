@@ -1,0 +1,18 @@
+{
+    "devDependencies": {
+        "@types/jest": "^23.3.10",
+        "@types/lodash": "^4.14.118",
+        "@types/node": "^10.12.12",
+        "@types/pug": "^2.0.4",
+        "jest": "^23.6.0",
+        "ts-jest": "^23.10.5"
+    },
+    "dependencies": {
+        "fastify": "^1.13.1",
+        "lodash": "^4.17.11",
+        "pug": "^2.0.3"
+    },
+    "scripts": {
+        "start": "tsc && node dist/bin/server.js"
+    }
+}

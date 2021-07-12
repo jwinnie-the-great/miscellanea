@@ -1,0 +1,8 @@
+{
+    "/": {
+        "GET": "Index#index"
+    },
+    "/hello": {
+        "GET": "Hello#hello"
+    }
+}

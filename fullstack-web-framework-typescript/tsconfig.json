@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "noImplicitReturns": true,
+        "forceConsistentCasingInFileNames": true,
+        "strict": true,
+        "noUnusedLocals": true,
+        "outDir": "dist",
+        "noEmitOnError": true,
+        "noFallthroughCasesInSwitch": true,
+        "strictNullChecks": true,
+        "alwaysStrict": true,
+        "noImplicitThis": true,
+        "diagnostics": true
+    }
+}
